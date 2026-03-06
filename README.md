@@ -8,15 +8,15 @@
 
 # 👨‍💻 About Me
 
-🎓 B.Tech CSE (Data Science) – Pallavi Engineering College
+🎓 **B.Tech CSE (Data Science)** – Pallavi Engineering College
 
-💻 Skilled in **AI, Machine Learning, Deep Learning, Python, SQL**
-
-🚀 Built real-world **AI and Data Science projects**
+💻 Skilled in **Python, AI, Machine Learning, Deep Learning, SQL**
 
 🧠 Experienced with **TensorFlow & PyTorch**
 
-📊 Working on **Data Science & AI applications**
+🚀 Built multiple **AI & Data Science projects**
+
+📊 Working with **Data Analysis, ML Models & AI Systems**
 
 🎯 Goal: Become an **AI Engineer / Data Scientist**
 
@@ -24,13 +24,13 @@
 
 # 💼 Experience
 
-🧑‍💻 **Software Development & AI Internship Experience**
+### 🧑‍💻 Software Development & AI Internship
 
-• Worked on **AI & Machine Learning projects**
+• Built real-world **AI & Machine Learning applications**
 
-• Built real-world **Data Science & ML models**
+• Developed **data analysis and ML models using Python**
 
-• Experience with **Python development and ML pipelines**
+• Worked with **ML pipelines, datasets, and model evaluation**
 
 ---
 
@@ -44,9 +44,10 @@
 
 ---
 
-## 🤖 AI / Machine Learning
-![Machine Learning](https://img.shields.io/badge/Machine%20Learning-red?style=for-the-badge)
+## 🤖 Artificial Intelligence / Machine Learning
+
 ![Artificial Intelligence](https://img.shields.io/badge/Artificial%20Intelligence-purple?style=for-the-badge)
+![Machine Learning](https://img.shields.io/badge/Machine%20Learning-red?style=for-the-badge)
 ![Deep Learning](https://img.shields.io/badge/Deep%20Learning-black?style=for-the-badge)
 
 ---
@@ -67,7 +68,7 @@
 
 ---
 
-## ⚡ Tools
+## ⚡ Development Tools
 
 ![Jupyter](https://img.shields.io/badge/Jupyter-orange?style=for-the-badge\&logo=jupyter)
 ![VS Code](https://img.shields.io/badge/VSCode-blue?style=for-the-badge\&logo=visualstudiocode)
@@ -77,10 +78,23 @@
 
 ---
 
+## ☁ Cloud Platforms
+
+![AWS](https://img.shields.io/badge/AWS-orange?style=for-the-badge\&logo=amazonaws)
+![Microsoft Azure](https://img.shields.io/badge/Azure-blue?style=for-the-badge\&logo=microsoftazure)
+![Google Cloud](https://img.shields.io/badge/Google%20Cloud-blue?style=for-the-badge\&logo=googlecloud)
+![IBM Cloud](https://img.shields.io/badge/IBM%20Cloud-black?style=for-the-badge\&logo=ibm)
+
+---
+
 # 📊 GitHub Stats
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=kondapallysimhadri&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=kondapallysimhadri&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
+
+<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=kondapallysimhadri&theme=tokyonight&hide_border=true"/>
+
 </p>
 
 ---
@@ -88,7 +102,9 @@
 # 💻 Top Languages
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kondapallysimhadri&layout=compact&theme=tokyonight&hide_border=true"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kondapallysimhadri&layout=compact&theme=tokyonight&hide_border=true"/>
+
 </p>
 
 ---
