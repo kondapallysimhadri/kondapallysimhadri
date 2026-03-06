@@ -1,38 +1,56 @@
 <h1 align="center">Hi 👋, I'm Simhadri Kondapally</h1>
-<h3 align="center">Aspiring Data Scientist | Python Developer | AI Enthusiast</h3>
+
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Aspiring+Data+Scientist;Python+Developer;Machine+Learning+Enthusiast;Building+AI+Projects" />
+</p>
 
 ---
 
-### 👨‍💻 About Me
-- 🎓 Data Science Student at Pallavi Engineering College
-- 💻 Skilled in Python, Machine Learning, SQL & Data Analysis
-- 🚀 Building real-world AI and Data Science projects
-- 🎯 Goal: Become an AI/Data Scientist
+## 👨‍💻 About Me
+
+* 🎓 B.Tech CSE (Data Science) – Pallavi Engineering College
+* 💻 Skilled in **Python, Machine Learning, SQL & Data Analysis**
+* 🚀 Built real-world **AI and Data Science projects**
+* 🔍 Interested in **AI, ML, and Data Engineering**
+* 🎯 Goal: Become a **Professional AI / Data Scientist**
 
 ---
 
-### 🚀 Skills
+## 🚀 Skills
 
-![Python](https://img.shields.io/badge/Python-blue?style=for-the-badge&logo=python)
+![Python](https://img.shields.io/badge/Python-blue?style=for-the-badge\&logo=python)
 ![Machine Learning](https://img.shields.io/badge/Machine%20Learning-orange?style=for-the-badge)
-![SQL](https://img.shields.io/badge/SQL-red?style=for-the-badge&logo=mysql)
-![Pandas](https://img.shields.io/badge/Pandas-black?style=for-the-badge&logo=pandas)
-![NumPy](https://img.shields.io/badge/Numpy-blue?style=for-the-badge&logo=numpy)
-![Streamlit](https://img.shields.io/badge/Streamlit-red?style=for-the-badge&logo=streamlit)
+![SQL](https://img.shields.io/badge/SQL-red?style=for-the-badge\&logo=mysql)
+![Pandas](https://img.shields.io/badge/Pandas-black?style=for-the-badge\&logo=pandas)
+![NumPy](https://img.shields.io/badge/Numpy-blue?style=for-the-badge\&logo=numpy)
+![Scikit Learn](https://img.shields.io/badge/Scikit--Learn-orange?style=for-the-badge\&logo=scikit-learn)
+![Streamlit](https://img.shields.io/badge/Streamlit-red?style=for-the-badge\&logo=streamlit)
 
 ---
 
-### 📊 My Projects
+## 📊 My Projects
 
-🔹 AI-Based Network Intrusion Detection System  
-🔹 Credit Risk Modelling using SQL  
-🔹 Weather Data Analysis  
-🔹 Sign Language Translator  
-🔹 Smart Irrigation System  
+🔹 AI-Based Network Intrusion Detection System
+🔹 End-to-End Credit Risk Modeling
+🔹 Sign Language Translator
+🔹 Weather Data Analysis
+🔹 Smart Irrigation System
 
 ---
 
-### 📫 Connect With Me
+## 📈 GitHub Stats
 
-LinkedIn: [https://linkedin.com/in/kondapally-simhadri-7432682a6](https://www.linkedin.com/in/kondapally-simhadri/)  
-GitHub: https://github.com/kondapallysimhadri
+![Simhadri's GitHub stats](https://github-readme-stats.vercel.app/api?username=kondapallysimhadri\&show_icons=true\&theme=tokyonight)
+
+---
+
+## 💻 Top Languages
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kondapallysimhadri\&layout=compact\&theme=tokyonight)
+
+---
+
+## 📫 Connect With Me
+
+* LinkedIn: https://linkedin.com/in/kondapally-simhadri-7432682a6
+* GitHub: https://github.com/kondapallysimhadri
