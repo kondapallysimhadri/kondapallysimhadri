@@ -102,9 +102,7 @@
 # 💻 Top Languages
 
 <p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kondapallysimhadri&layout=compact&theme=tokyonight&hide_border=true"/>
-
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kondapallysimhadri&layout=compact&theme=tokyonight&langs_count=8&hide_border=true"/>
 </p>
 
 ---
