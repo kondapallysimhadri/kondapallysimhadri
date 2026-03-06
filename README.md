@@ -9,10 +9,15 @@
 # 👨‍💻 About Me
 
 🎓 B.Tech CSE (Data Science) – Pallavi Engineering College
+
 💻 Skilled in **AI, Machine Learning, Deep Learning, Python, SQL**
+
 🚀 Built real-world **AI and Data Science projects**
+
 🧠 Experienced with **TensorFlow & PyTorch**
+
 📊 Working on **Data Science & AI applications**
+
 🎯 Goal: Become an **AI Engineer / Data Scientist**
 
 ---
