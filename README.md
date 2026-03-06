@@ -95,12 +95,10 @@
 
 ---
 
-# 📫 Connect With Me
+# 📫 Contact Me
 
-🔗 LinkedIn
-https://www.linkedin.com/in/kondapally-simhadri/
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:kondapallisimhadri51@gmail.com)
 
-💻 GitHub
-https://github.com/kondapallysimhadri
-![Uploading image.png…]() Gmail
-kondapallisimhadri51@gmail.com
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge\&logo=linkedin)](https://www.linkedin.com/in/kondapally-simhadri/)
+
+[![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge\&logo=github)](https://github.com/kondapallysimhadri)
