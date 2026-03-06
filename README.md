@@ -98,7 +98,9 @@
 # 📫 Connect With Me
 
 🔗 LinkedIn
-https://linkedin.com/in/kondapally-simhadri-7432682a6
+https://www.linkedin.com/in/kondapally-simhadri/
 
 💻 GitHub
 https://github.com/kondapallysimhadri
+![Uploading image.png…]() Gmail
+kondapallisimhadri51@gmail.com
