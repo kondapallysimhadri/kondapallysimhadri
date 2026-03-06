@@ -1,23 +1,18 @@
 <h1 align="center">Hi 👋, I'm Simhadri Kondapally</h1>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=AI+Engineer+in+Progress;Data+Scientist;Machine+Learning+Developer;Deep+Learning+Engineer;Python+Developer" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=AI+Engineer+in+Progress;Data+Scientist;Machine+Learning+Developer;Deep+Learning+Engineer;Python+Developer">
 </p>
 
 ---
 
 # 👨‍💻 About Me
 
-🎓 **B.Tech CSE (Data Science)** – Pallavi Engineering College
-
+🎓 B.Tech CSE (Data Science) – Pallavi Engineering College
 💻 Skilled in **Python, AI, Machine Learning, Deep Learning, SQL**
-
 🧠 Experienced with **TensorFlow & PyTorch**
-
-🚀 Built multiple **AI & Data Science projects**
-
+🚀 Built real-world **AI and Data Science projects**
 📊 Working with **Data Analysis, ML Models & AI Systems**
-
 🎯 Goal: Become an **AI Engineer / Data Scientist**
 
 ---
@@ -26,11 +21,9 @@
 
 ### 🧑‍💻 Software Development & AI Internship
 
-• Built real-world **AI & Machine Learning applications**
-
+• Built real-world **AI & Machine Learning projects**
 • Developed **data analysis and ML models using Python**
-
-• Worked with **ML pipelines, datasets, and model evaluation**
+• Worked with **ML pipelines and datasets**
 
 ---
 
@@ -81,7 +74,7 @@
 ## ☁ Cloud Platforms
 
 ![AWS](https://img.shields.io/badge/AWS-orange?style=for-the-badge\&logo=amazonaws)
-![Microsoft Azure](https://img.shields.io/badge/Azure-blue?style=for-the-badge\&logo=microsoftazure)
+![Azure](https://img.shields.io/badge/Azure-blue?style=for-the-badge\&logo=microsoftazure)
 ![Google Cloud](https://img.shields.io/badge/Google%20Cloud-blue?style=for-the-badge\&logo=googlecloud)
 ![IBM Cloud](https://img.shields.io/badge/IBM%20Cloud-black?style=for-the-badge\&logo=ibm)
 
@@ -91,18 +84,10 @@
 
 <p align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=kondapallysimhadri&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
+<img height="170" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=kondapallysimhadri&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=kondapallysimhadri&theme=tokyonight&hide_border=true"/>
+<img height="170" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=kondapallysimhadri&layout=compact&theme=tokyonight&hide_border=true"/>
 
-</p>
-
----
-
-# 💻 Top Languages
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kondapallysimhadri&layout=compact&theme=tokyonight&langs_count=8&hide_border=true"/>
 </p>
 
 ---
