@@ -28,9 +28,9 @@
 
 • Built real-world **AI & Machine Learning projects**
 
-• Developed **data analysis and ML models using Python**
+• Developed **ML models using Python**
 
-• Worked with **ML pipelines and datasets**
+• Worked with **data pipelines and datasets**
 
 ---
 
@@ -90,8 +90,16 @@
 # 📊 GitHub Stats
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=kondapallysimhadri&show_icons=true&theme=tokyonight&hide_border=true"/>
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kondapallysimhadri&layout=compact&theme=tokyonight&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=kondapallysimhadri&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kondapallysimhadri&layout=compact&theme=tokyonight&hide_border=true"/>
+</p>
+
+---
+
+# 🐍 Contribution Animation
+
+<p align="center">
+<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg"/>
 </p>
 
 ---
