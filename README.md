@@ -1,350 +1,240 @@
-<h1 align="center">Hi 👋, I'm Simhadri Kondapally</h1>
-
-<h3 align="center">
-🚀 AI Engineer | Data Scientist | Machine Learning Developer
-</h3>
+<h1 align="center">Simhadri Kondapally</h1>
 
 <p align="center">
-Passionate about Artificial Intelligence, Machine Learning, Data Science, Generative AI, and Building Real-World Solutions.
+  <strong>AI Engineer · LLM Applications · RAG · AI Product Engineering</strong>
 </p>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=800&lines=AI+Engineer;Data+Scientist;Machine+Learning+Developer;Deep+Learning+Enthusiast;Generative+AI+Explorer;Python+Developer">
+  Building practical AI systems around knowledge, retrieval, intelligence, and real-world workflows.
 </p>
-
----
-
-## 🌟 About Me
-
-🎓 B.Tech CSE (Data Science) Student at Pallavi Engineering College, JNTUH
-
-💡 Passionate about Artificial Intelligence, Machine Learning, Deep Learning, Data Science, and Generative AI
-
-🚀 Built multiple AI, ML, Data Analytics, and Cloud-based Projects
-
-📊 Strong foundation in Python, SQL, Machine Learning, Data Analysis, and AI Systems
-
-🌱 Currently Learning:
-
-- Generative AI
-- Large Language Models (LLMs)
-- Retrieval-Augmented Generation (RAG)
-- AI Agents
-- MLOps
-- Cloud AI Engineering
-
-🎯 Career Goal:
-
-Become a Professional AI Engineer and Data Scientist creating impactful AI solutions.
-
----
-
-## 📫 Connect With Me
-
-<p align="left">
-
-<a href="kondapallisimhadri51@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-<a href="https://www.linkedin.com/in/kondapally-simhadri/">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
-</a>
-
-<a href="https://github.com/kondapallysimhadri">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
-</a>
-
-</p>
-
----
-
-# 🚀 Technical Skills
-
-## 💻 Programming Languages
-
-![Python](https://img.shields.io/badge/Python-blue?style=for-the-badge&logo=python)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus)
-![SQL](https://img.shields.io/badge/SQL-orange?style=for-the-badge&logo=mysql)
-
----
-
-## 📊 Data Science
-
-![Pandas](https://img.shields.io/badge/Pandas-black?style=for-the-badge&logo=pandas)
-
-![NumPy](https://img.shields.io/badge/Numpy-blue?style=for-the-badge&logo=numpy)
-
-![Matplotlib](https://img.shields.io/badge/Matplotlib-blue?style=for-the-badge)
-
-![Seaborn](https://img.shields.io/badge/Seaborn-green?style=for-the-badge)
-
-![Scikit Learn](https://img.shields.io/badge/Scikit--Learn-orange?style=for-the-badge&logo=scikit-learn)
-
-![Power BI](https://img.shields.io/badge/PowerBI-yellow?style=for-the-badge&logo=powerbi)
-
----
-
-## 🤖 Artificial Intelligence & Machine Learning
-
-![Artificial Intelligence](https://img.shields.io/badge/Artificial%20Intelligence-purple?style=for-the-badge)
-
-![Machine Learning](https://img.shields.io/badge/Machine%20Learning-red?style=for-the-badge)
-
-![Deep Learning](https://img.shields.io/badge/Deep%20Learning-black?style=for-the-badge)
-
-![NLP](https://img.shields.io/badge/NLP-blueviolet?style=for-the-badge)
-
-![Computer Vision](https://img.shields.io/badge/Computer%20Vision-darkgreen?style=for-the-badge)
-
----
-
-## 🧠 Deep Learning Frameworks
-
-![TensorFlow](https://img.shields.io/badge/TensorFlow-orange?style=for-the-badge&logo=tensorflow)
-
-![PyTorch](https://img.shields.io/badge/PyTorch-red?style=for-the-badge&logo=pytorch)
-
----
-
-## ☁ Cloud Platforms
-
-![AWS](https://img.shields.io/badge/AWS-orange?style=for-the-badge&logo=amazonaws)
-
-![Azure](https://img.shields.io/badge/Azure-blue?style=for-the-badge&logo=microsoftazure)
-
-![Google Cloud](https://img.shields.io/badge/GoogleCloud-blue?style=for-the-badge&logo=googlecloud)
-
-![IBM Cloud](https://img.shields.io/badge/IBMCloud-black?style=for-the-badge&logo=ibm)
-
----
-
-## 🛠 Tools & Platforms
-
-![VS Code](https://img.shields.io/badge/VSCode-blue?style=for-the-badge&logo=visualstudiocode)
-
-![Jupyter](https://img.shields.io/badge/Jupyter-orange?style=for-the-badge&logo=jupyter)
-
-![Git](https://img.shields.io/badge/Git-black?style=for-the-badge&logo=git)
-
-![GitHub](https://img.shields.io/badge/GitHub-grey?style=for-the-badge&logo=github)
-
-![Streamlit](https://img.shields.io/badge/Streamlit-red?style=for-the-badge&logo=streamlit)
-
----
-
-# 💼 Internship Experience
-
-## AI & Machine Learning Internship
-
-### SURE Trust
-
-✔ AI-Powered Smart Legal Claim Assistant
-
-✔ Full Stack Development
-
-✔ Flask APIs
-
-✔ MongoDB Atlas
-
-✔ Explainable AI
-
-✔ NLP Applications
-
-✔ Playwright Automation
-
-✔ LegalTech Intelligence System
-
-✔ AI Eligibility Prediction
-
-✔ Risk Scoring Models
-
----
-
-# 🚀 Featured Projects
-
-## 🛡 AI-Based Network Intrusion Detection System
-
-🔹 Dataset: CIC-IDS2017
-
-🔹 Random Forest Classifier
-
-🔹 Real-Time Attack Detection
-
-🔹 Streamlit Deployment
-
-🔹 Accuracy: 99.96%
-
-Tech Stack:
-
-Python • Machine Learning • Streamlit • Scikit-Learn • Pandas
-
----
-
-## 🌾 Smart Irrigation System
-
-AI-powered irrigation recommendation system helping improve water usage efficiency.
-
-Tech:
-
-Python • Machine Learning • Data Analytics
-
----
-
-## 🤟 Sign Language Translator
-
-Computer Vision-based translator that converts sign language into understandable text.
-
-Tech:
-
-Python • OpenCV • Machine Learning
-
----
-
-## ☁ Vertex AI GenAI Application
-
-Built using Google Vertex AI and Generative AI concepts.
-
-Tech:
-
-Vertex AI • Gemini • Python
-
----
-
-## 🌦 Weather Data Analysis
-
-Data cleaning, EDA, visualizations, and insights generation.
-
-Tech:
-
-Pandas • NumPy • Matplotlib
-
----
-
-## ⚖ AI-Powered Smart Legal Claim Assistant
-
-AI-based LegalTech platform for legal claim analysis and eligibility prediction.
-
-Tech:
-
-Flask • MongoDB Atlas • NLP • Explainable AI • Python
-
----
-
-# 🏆 Certifications
-
-✅ Python for Data Science
-
-✅ Machine Learning
-
-✅ GitHub Copilot Fundamentals
-
-✅ Data Science Methodology (IBM)
-
-✅ IBM Cloud Platform in Emerging Technologies
-
-✅ Python Programming
-
-✅ Introduction to Machine Learning
-
-✅ Summer of AI Internship
-
-✅ AI & Cloud Technologies
-
-✅ Prompt Engineering
-
-✅ Data Analytics Fundamentals
-
-✅ Cloud Computing Basics
-
-✅ Generative AI Fundamentals
-
-✅ AI Applications Development
-
----
-
-# 📚 Currently Learning
-
-🚀 Generative AI
-
-🚀 Large Language Models
-
-🚀 Retrieval-Augmented Generation
-
-🚀 AI Agents
-
-🚀 MLOps
-
-🚀 Cloud AI
-
-🚀 Production ML Systems
-
----
-
-# 📈 GitHub Statistics
 
 <p align="center">
-
-<img height="180em"
-src="https://github-readme-stats.vercel.app/api?username=kondapallysimhadri&show_icons=true&theme=tokyonight"/>
-
-<img height="180em"
-src="https://github-readme-stats.vercel.app/api/top-langs/?username=kondapallysimhadri&layout=compact&theme=tokyonight"/>
-
+  <a href="https://www.linkedin.com/in/kondapally-simhadri/">LinkedIn</a>
+  ·
+  <a href="mailto:kondapallisimhadri51@gmail.com">Email</a>
+  ·
+  <a href="https://github.com/kondapallysimhadri">GitHub</a>
 </p>
 
 ---
 
-# 🔥 GitHub Streak
+## About
 
-<p align="center">
+I'm an **AI Engineer focused on building practical AI applications using Large Language Models, Retrieval-Augmented Generation (RAG), backend APIs, and data systems**.
 
-<img src="https://streak-stats.demolab.com?user=kondapallysimhadri&theme=tokyonight"/>
+My engineering work focuses on turning documents, unstructured information, and complex workflows into AI-powered applications that can retrieve relevant knowledge, assist users, and support decision-making.
 
-</p>
+I work across the AI application stack — from **retrieval and data systems to backend services, AI workflows, APIs, and deployment**.
 
----
-
-# 🏆 GitHub Trophies
-
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=kondapallysimhadri&theme=tokyonight&row=2&column=4"/>
-
-</p>
+My current engineering focus includes **production-oriented RAG architecture, AI agents, vector search, LLM application design, enterprise knowledge systems, and reliable AI product engineering**.
 
 ---
 
-# 📊 Contribution Graph
+## Engineering Focus
 
-<p align="center">
+```text
+AI Applications
+├── LLM-powered applications
+├── Retrieval-Augmented Generation
+├── AI assistants
+├── AI agents & tool calling
+└── Intelligent AI workflows
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=kondapallysimhadri&theme=tokyo-night"/>
+Knowledge & Retrieval
+├── Embeddings
+├── Semantic search
+├── Vector databases
+├── Document retrieval
+└── Context-grounded generation
 
-</p>
+Backend & Systems
+├── Python
+├── FastAPI
+├── Flask
+├── REST APIs
+├── PostgreSQL
+├── MongoDB
+└── Docker
 
----
+AI & Data
+├── Machine Learning
+├── Natural Language Processing
+├── Explainable AI
+├── Scikit-learn
+├── PyTorch
+└── Data analysis
+Featured AI Product
+⚖️ AI-Powered Smart Legal Claim Assistant
 
-# 🐍 Contribution Snake
+Repository: View Project
 
-<p align="center">
+An AI-powered LegalTech platform designed to improve access to legal information, support claim understanding, analyse digital risk, and guide users through structured claim workflows.
 
-<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg"/>
+The platform combines AI-assisted interaction, retrieval-based assistance, legal intelligence workflows, predictive components, explainability, and backend services to create a practical legal assistance system.
 
-</p>
+Core Capabilities
+AI-powered legal assistance
+RAG-based question answering
+Legal information retrieval
+Legal case and data breach intelligence search
+Digital risk profiling
+AI-assisted claim eligibility prediction
+Explainable AI workflows
+Guided claim assistance
+Document collection workflows
+AI decision-support capabilities
+Backend API integration
+Interactive legal intelligence dashboard
+Engineering Areas
 
----
+The project explores the integration of:
 
-# 👨‍💻 Profile Views
+Large Language Models
+Retrieval-Augmented Generation
+AI decision workflows
+Structured and unstructured data
+Backend APIs
+Risk analysis
+Explainable AI
+AI-assisted user workflows
+Technology Stack
 
-<p align="center">
+Python · FastAPI · Flask · MongoDB · RAG · LLM APIs · Explainable AI · Docker
 
-<img src="https://komarev.com/ghpvc/?username=kondapallysimhadri&label=Profile%20Views&color=0e75b6&style=flat"/>
+This product reflects my focus on engineering AI systems that combine intelligence, retrieval, backend architecture, data, and real-world workflows.
 
-</p>
+Selected Engineering Projects
+🛡️ AI-Based Network Intrusion Detection System
 
----
+A machine learning-based network intrusion detection system developed using the CIC-IDS2017 dataset.
 
-<h3 align="center">
-⭐ If you like my projects, don't forget to star the repositories ⭐
-</h3>
+The project focuses on analysing network traffic, identifying malicious behaviour, classifying attacks, and exposing model predictions through an interactive application.
+
+Engineering Areas
+
+Network traffic analysis
+Data preprocessing
+Feature engineering
+Attack classification
+Machine learning model development
+Model evaluation
+Interactive application development
+
+Technology
+
+Python · Scikit-learn · Pandas · Streamlit
+
+📊 Credit Risk Modeling
+
+A machine learning project focused on analysing financial data and developing predictive models for credit risk assessment.
+
+The project includes data analysis, preprocessing, feature handling, model development, and predictive risk assessment.
+
+Technology
+
+Python · Machine Learning · Pandas · Scikit-learn
+
+🚆 Railway Data Engineering
+
+A data engineering project focused on structured data processing, transformation, and analytical workflows.
+
+The project explores data preparation and engineering processes required to transform raw structured information into analysis-ready data.
+
+Technology
+
+Python · Data Engineering · Data Processing
+
+Additional Engineering Work
+
+My repositories also include experimentation and project work involving:
+
+Generative AI applications
+Gemini and Vertex AI
+AI assistants
+Smart irrigation systems
+Computer vision
+Sign language translation
+Machine learning applications
+Data analytics
+Power BI
+Cloud and AI experimentation
+
+These projects represent different stages of my engineering journey and practical exploration across AI, machine learning, data, and application development.
+
+Technology Stack
+AI Engineering
+
+Large Language Models RAG AI Agents Embeddings Semantic Search Prompt Engineering
+
+Backend Engineering
+
+Python FastAPI Flask REST APIs
+
+Data & Knowledge Storage
+
+PostgreSQL MongoDB SQL Qdrant Vector Databases
+
+Machine Learning
+
+PyTorch Scikit-learn Pandas NumPy
+
+Engineering & Deployment
+
+Docker Git GitHub CI/CD Render
+
+Cloud
+
+AWS Microsoft Azure Google Cloud Platform
+
+Current Engineering Focus
+
+My current engineering focus includes:
+
+Production-oriented RAG architecture
+AI agents and tool calling
+Vector retrieval and embeddings
+Enterprise knowledge systems
+AI system trust and explainability
+LLM application architecture
+Backend architecture for AI products
+Production AI deployment
+
+My goal is to understand not only how to use an AI model, but how to engineer the complete system around it — including retrieval, data, APIs, access, reliability, explainability, and deployment.
+
+AI Systems I Am Interested in Building
+
+I am particularly interested in engineering:
+
+AI document assistants
+RAG applications
+Enterprise knowledge assistants
+LLM-powered products
+AI assistants and agents
+AI backend APIs
+Semantic search systems
+Intelligent workflow automation
+LegalTech AI systems
+AI MVPs and proof-of-concept applications
+
+I approach AI projects by first understanding the actual problem, workflow, data, and system requirements before selecting the AI architecture.
+
+Open to AI Projects & Collaboration
+
+I'm open to working on AI engineering projects involving:
+
+Custom RAG applications
+AI document intelligence
+LLM application development
+AI knowledge systems
+AI assistants
+AI backend services
+AI workflow integration
+AI MVP development
+
+If you're building an AI-powered product or exploring how AI can improve a document-heavy or knowledge-intensive workflow, feel free to connect.
+
+Connect
+LinkedIn
+Email
+GitHub
+<p align="center"> <strong>Build systems. Understand the architecture. Solve the actual problem.</strong> </p> ```
