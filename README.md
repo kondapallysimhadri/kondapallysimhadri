@@ -117,6 +117,8 @@ The project explores the integration of:
 
 ### 🛡️ AI-Based Network Intrusion Detection System
 
+**Repository:** [View Project](https://github.com/kondapallysimhadri/AI-Based_Network_Intrusion_Detection_System_Cybersecurity_Analysts-.git)
+
 A machine learning-based network intrusion detection system developed using the CIC-IDS2017 dataset.
 
 The project focuses on analysing network traffic, identifying malicious behaviour, classifying attacks, and exposing model predictions through an interactive application.
@@ -139,6 +141,8 @@ The project focuses on analysing network traffic, identifying malicious behaviou
 
 ### 📊 Credit Risk Modeling
 
+**Repository:** [View Project](https://github.com/kondapallysimhadri/cricket-win-predictor.git)
+
 A machine learning project focused on analysing financial data and developing predictive models for credit risk assessment.
 
 The project includes data analysis, preprocessing, feature handling, model development, and predictive risk assessment.
@@ -150,6 +154,8 @@ The project includes data analysis, preprocessing, feature handling, model devel
 ---
 
 ### 🚆 Railway Data Engineering
+
+**Repository:** [View Project](https://github.com/kondapallysimhadri/Railway-Data-Engineering.git)
 
 A data engineering project focused on structured data processing, transformation, and analytical workflows.
 
