@@ -11,7 +11,8 @@ I build AI-powered applications that transform documents, knowledge, and busines
 <p align="center">
 <a href="https://www.linkedin.com/in/kondapally-simhadri/">LinkedIn</a> •
 <a href="mailto:kondapallisimhadri51@gmail.com">Email</a> •
-<a href="https://github.com/kondapallysimhadri">GitHub</a>
+<a href="https://github.com/kondapallysimhadri">GitHub</a> •
+<a href="https://simhadri-ai.framer.website/">Portfolio</a>
 </p>
 
 ---
